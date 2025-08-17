@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "VidHarvester Capture",
+  "version": "0.1.0",
+  "permissions": [
+    "webRequest",
+    "tabs",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": { "service_worker": "background.js" },
+  "action": {"default_title": "VidHarvester"}
+}
