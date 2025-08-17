@@ -34,6 +34,26 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+### Main Interface
+*VidHarvester's intuitive GUI with download history and format details*
+
+![VidHarvester Main Interface](screenshots/vidharvester-main-interface.png)
+
+### Download Queue Management  
+*Real-time download progress with concurrent downloads*
+
+![VidHarvester Download Queue](screenshots/vidharvester-download-queue.png)
+
+**🖼️ [View More Screenshots](screenshots/) →**
+
+</div>
+
+---
+
 ## 📋 Features
 
 ### 🎥 **Core Downloading**
@@ -219,6 +239,7 @@ VidHarvester/
 │   ├── 📂 chrome/                 # Chrome extension
 │   └── 📂 firefox/                # Firefox extension
 ├── 📂 proxy/                      # mitmproxy addon
+├── 📂 screenshots/                # Application screenshots
 ├── 📂 scripts/                    # Build & packaging scripts
 ├── 📄 requirements.txt            # Python dependencies
 └── 📄 run.py                      # Application entry point
