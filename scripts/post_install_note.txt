@@ -1,0 +1,10 @@
+VidHarvester Build Notes
+========================
+
+Build outputs:
+- dist/VidHarvester/VidHarvester.exe (main executable)
+- dist/VidHarvester-OneFile.exe (single-file executable)
+
+For distribution, also package:
+- extensions/ folder (browser extensions)
+- proxy/mitm_addon.py (mitmproxy addon)
